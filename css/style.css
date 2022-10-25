@@ -1,0 +1,31 @@
+/**** 
+Sötétkék szín: #0067b8
+Világoskék szín: #05a6f0
+Piros szín: #f35325
+Zöld szín: #81bc06
+Sárga szín: #ffba08
+****/
+
+:root {
+	--darkblue: #0067b8;
+	--lightblue: #05a6f0; 
+	--red: #f35325;
+	--green: #81bc06;
+	--yellow: #ffba08;
+}
+*{
+	border-collapse: collapse;
+	text-align: center;
+}
+body {
+	background-color: #e9ffed;
+}
+table, td, th{
+	border: solid 1px;
+}
+table{
+	margin-top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;
+}
